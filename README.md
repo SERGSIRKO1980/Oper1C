@@ -1,5 +1,5 @@
 # Oper1C
-Опер1С програма помічник оператора 1С для автоматизації повсякденніх завдань
+Опер1С програма помічник оператора 1С для автоматизації повсякденних завдань
 
 <img width="1900" height="594" alt="vlcsnap-2026-11-17-12h28m42s481" src="https://github.com/user-attachments/assets/a49c98d3-2e56-4f68-95cb-abf9694546dd" />
 <img width="1900" height="594" alt="vlcsnap-2026-11-17-12h27m36s131" src="https://github.com/user-attachments/assets/7469b338-90d0-4cad-b4dd-90f813fb8863" />
